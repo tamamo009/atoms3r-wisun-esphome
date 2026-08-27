@@ -1,7 +1,7 @@
 # atoms3r-wisun-esphome
 M5AtomS3R + ATOMIC Wi-SUN-A1 (BP35A1) を ESPHome 経由で Home Assistant に接続する設定例
 
-Arduino 版サンプル（[rin-ofumi/wisun_arduino](https://github.com/rin-ofumi/wisun_arduino)）と同じキットを、Home Assistant 向けに使う経路です。
+Arduino 版サンプル（[rin-ofumi/wisun_arduino](https://github.com/rin-ofumi/wisun_arduino)）と同じキットを、Home Assistant 向けに使う方向けです。M5AtomS3Rの機能はほとんど使っていないので勿体ないかもしれない。
 
 ## 必要なもの
 
